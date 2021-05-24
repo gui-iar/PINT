@@ -108,6 +108,9 @@ TopoObs(
     "iar1",
     tempo_code="m",
     itoa_code="A1",
+    clock_fmt="tempo2",
+    clock_dir="TEMPO2",
+    clock_file="utc2tai.clk",  
     itrf_xyz=[-2559454.08, -4449628.98, -3625726.47],
 )
 
@@ -115,18 +118,27 @@ TopoObs(
     "iar2",
     tempo_code="o",
     itoa_code="A2",
+    clock_fmt="tempo2",
+    clock_dir="TEMPO2",
+    clock_file="utc2tai.clk",
     itrf_xyz=[2765322.49, -4449569.52, -3625825.14],
 )
 TopoObs(
     "dsa3",
     tempo_code="p",
     itoa_code="D3",
+    clock_fmt="tempo2",
+    clock_dir="TEMPO2",
+    clock_file="utc2tai.clk",    
     itrf_xyz=[1822902.736, -4849284.620, -3708078.704],
 )
 TopoObs(
     "cltc",
     tempo_code="q",
     itoa_code="CL",
+    clock_fmt="tempo2",
+    clock_dir="TEMPO2",
+    clock_file="utc2tai.clk",
     itrf_xyz=[1704386.809, -4721089.389, -3922212.645],
 )
 TopoObs(
