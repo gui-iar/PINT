@@ -111,7 +111,7 @@ TopoObs(
     clock_fmt="tempo2",
     clock_dir="TEMPO2",
     clock_file="utc2tai.clk",  
-    itrf_xyz=[-2559454.08, -4449628.98, -3625726.47],
+    itrf_xyz=[2765357.08, -4449628.98,-3625726.47],
 )
 
 TopoObs(
