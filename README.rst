@@ -129,3 +129,5 @@ RTL_Filterbank: 23
 IAR_ROACH_v1: 24
 
 IAR_SNAP_v1: 25
+
+IAR CODES in src/pint/observatory/observatories.py
