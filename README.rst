@@ -73,3 +73,27 @@ Using
 See the online documentation_.
 
 .. _documentation:   http://nanograv-pint.readthedocs.io/en/latest/
+
+Telescope ID,
+
+IAR-A1: 19, "IAR1", "A1", "m"
+
+IAR-A2: 20, "IAR2", "A2", "o",
+
+IAR-ROACH-A1: 21, "IAR1R", "R1", "r"
+
+IAR-ROACH-A2: 22, "IAR2R", "R2", "s",
+
+DSA-3: 24, "DSA3", "D3", "p",
+
+CLTC: 25, "CLTC", "CL", "q",
+
+Machine ID,
+
+RTL_Filterbank: 23
+
+IAR_ROACH_v1: 24
+
+IAR_SNAP_v1: 25
+
+IAR CODES in src/pint/observatory/observatories.py
